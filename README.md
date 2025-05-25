@@ -55,7 +55,7 @@ PROJECT_ROOT/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/GitShivamNauriyal/Real-Time-Intrusion-Detection-System.git
+git clone https://github.com/developer-krish/Real-Time-Intrusion-Detection-System.git
 cd PROJECT_ROOT
 ```
 
