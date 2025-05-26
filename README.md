@@ -160,4 +160,4 @@ Feel free to fork this repository, submit issues, or create pull requests to enh
 
 ## Contact
 
-For questions or support, contact shivamnauriyal1224@gmail.com
+For questions or support, contact krishgupta.udh@gmail.com
